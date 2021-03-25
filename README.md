@@ -1,4 +1,9 @@
 # 3dpointcloud
+## Requirements
+- python3
+- anaconda 3  (https://www.anaconda.com/products/individual)
+- pyrealsense 2.2 (https://pypi.org/project/pyrealsense/)
+
 ## 基本上這裡分成三部分
 ## code : 疊合點雲的code與說明
 - 詳細內容參閱 code/程式架構.pdf
