@@ -1,4 +1,4 @@
-# 3dpointcloud
+# ECL-CKH-pig's pointcloud recording and 
 ## Requirements
 - python3
 - anaconda 3  (https://www.anaconda.com/products/individual)
